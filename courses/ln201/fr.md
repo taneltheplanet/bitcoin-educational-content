@@ -73,6 +73,8 @@ Désormais, Bob souhaite envoyer 80 000 SAT à Alice. N’ayant pas la liquidit�
 ![explication](assets/chapitre1/3.webp)
 
 ## Bitcoin, adresses, UTXO et transactions
+<professor>another-satoshi</professor>
+
 
 ![bitcoin, adresses, utxo et transactions](https://youtu.be/cadCJ2V7zTg)
 
