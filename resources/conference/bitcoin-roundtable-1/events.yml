@@ -17,6 +17,7 @@
     website:
     replay_url:
     live_url: https://www.youtube.com/embed/apXM1leMG7I?si=fCn22zaLczBAJBus
+    chat_url: https://peertube.planb.network/plugins/livechat/router/webchat/room/45296d32-10fb-4f9f-ac04-ae0fbb0d2405
   tags:
     - International
     - General
