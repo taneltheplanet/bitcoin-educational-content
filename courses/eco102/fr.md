@@ -104,7 +104,9 @@ Une première réunion a lieu à Bordeaux, le 23 février 1846, dans laquelle l'
 
 La Révolution de février 1848 renverse la monarchie de Louis-Philippe, appelée monarchie de Juillet (1830-1848) et voit l’avènement de la Seconde république. Bastiat est alors élu membre de l’assemblée législative comme député des Landes. Il siège au centre-gauche, avec Alexis de Tocqueville, entre les monarchistes et les socialistes. Là, il s’emploie à défendre les libertés individuelles comme les libertés civiles et s’oppose à toutes les politiques restrictives, qu’elles viennent de droite ou de gauche. Il est élu vice-président du Comité des finances et s’efforce de rappeler constamment à ses collègues députés cette vérité simple, mais souvent oubliée dans les parlements :
 
-> On ne peut rien donner aux uns, par une loi, sans être obligés de prendre aux autres par une autre loi.\nTest deuxième ligne
+> On ne peut rien donner aux uns, par une loi, sans être obligés de prendre aux autres par une autre loi.
+>
+> Test deuxième ligne
 
 La quasi-totalité de ses livres et de ses essais seront écrits au cours des six dernières années de sa vie, de 1844 à 1850. En 1850, Bastiat écrit deux de ses œuvres les plus célèbres : La Loi et une série de pamphlets intitulée Ce qu’on voit et ce qu’on ne voit pas. La Loi a été traduite en de nombreuses langues étrangères, dont l’anglais, l’allemand, l’espagnol, le russe et l’italien.
 
