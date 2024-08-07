@@ -80,8 +80,9 @@ The importance here is mainly to understand this new technology in a general way
 
 ## The Prehistory of Bitcoin
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
+<isCourseReview>true</isCourseReview>
 
-Before the term "Bitcoin" became synonymous with digital currency and financial transformation, a series of ideas, innovations, and social movements laid the groundwork for its creation. One of the fundamental elements of this prehistory of Bitcoin is the cypherpunk movement.
+Yo
 
 ### Cypherpunks: Visionaries of the Digital World
 
