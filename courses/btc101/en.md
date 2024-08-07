@@ -82,50 +82,6 @@ The importance here is mainly to understand this new technology in a general way
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 <isCourseReview>true</isCourseReview>
 
-Yo
-
-### Cypherpunks: Visionaries of the Digital World
-
-![image](assets/en/chapter0/0.webp)
-In the heart of the technological evolution of the 1980s and 1990s, a group of people began to deeply question the role of privacy and freedom in the digital age. These individuals, who would later become known as "cypherpunks," firmly believed that cryptography could serve as a tool to protect individual rights against interference from governments and large corporations.
-
-Iconic figures such as Julian Assange, Wei Dai, Tim May, and David Chaum contributed to defining the philosophy and vision of cypherpunks. These thinkers shared their ideas in an influential mailing list, where participants from around the world debated the best way to use technology to ensure greater individual freedom.
-
-### The Three Pillar Texts of Cypherpunks
-
-![image](assets/en/chapter0/2.webp)
-
-The cypherpunk movement, with its deep roots in digital activism and cryptography, relied on several fundamental texts to express its principles and vision of the future. Among these writings, three stand out in particular:
-
-- The "Cypherpunk Manifesto":
-  Written by Eric Hughes in 1993, the "Cypherpunk Manifesto" asserts that privacy is a fundamental right. Hughes argued that the ability to communicate freely and confidentially was essential for a free society. The manifesto states, "We cannot expect institutions, corporations, or other impersonal entities to grant us privacy... We must defend it ourselves."
-
-- The "Crypto-Anarchist Manifesto":
-  Written by Timothy C. May in 1992, this manifesto explains how the use of cryptography could lead to an era of cryptographic anarchy where governments would be powerless to interfere in the private affairs of citizens. May envisioned a future where information, money, and messages could be exchanged without the intervention of a third party, and anonymously.
-
-- The "Declaration of the Independence of Cyberspace":
-  Although not exclusively cypherpunk, this text reflects the sentiments of many actors in the movement. Written in 1996 by John Perry Barlow, it is a response to the increasing regulation of the Internet by governments. The declaration asserts that cyberspace is a distinct realm from the physical sphere and should not be subject to the same laws. It states, "We have no elected government, and we cannot be governed."
-
-### Predecessors of Bitcoin
-
-Before the emergence of Bitcoin, several attempts had been made to create a digital currency. For example, David Chaum introduced the concept of "anonymous electronic money" with his project "DigiCash" in the 1980s. Unfortunately, due to various constraints, DigiCash never really took off.
-
-Another important precursor is Wei Dai's "b-money". Although it was never implemented, it presented the idea of an anonymous digital currency where fraud detection was performed by a community of evaluators rather than a central authority.
-
-![image](assets/en/chapter0/1.webp)
-
-It was in this fertile environment that the mysterious Satoshi Nakamoto published the Bitcoin whitepaper in 2008. He combined several ideas from the cypherpunk movement, such as proof of work and cryptographic timestamps, to create a decentralized and censorship-resistant digital currency.
-
-Bitcoin was more than just a digital currency; it represented an achievement of cypherpunk ideals. Beyond its technology, it symbolized a revolution against traditional financial systems and offered an alternative based on transparency, decentralization, and individual sovereignty.
-
-### Conclusion
-
-The prehistory of Bitcoin is deeply rooted in the cypherpunk movement and a collective quest for greater freedom in the digital age. By combining the principles of cryptography, decentralization, and integrity, Bitcoin has become much more than a currency; it is the product of a philosophical and technological revolution that continues to reshape our world.
-
-Therefore, Bitcoin is a protocol that spans long periods of time and encourages us to question our relationship with energy, time, and money. But is Bitcoin a "real" currency? What is money? Does it exist in multiple forms? We will explore these questions in the next chapter.
-
-![The Prehistory of Bitcoin](assets/posters/fr/1_prehistoiredubitcoin.webp)
-
 # Money
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
 
